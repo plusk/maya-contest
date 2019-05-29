@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
-//Name: template.ma
-//Last modified: Wed, May 29, 2019 07:14:02 PM
+//Name: katrine.ma
+//Last modified: Wed, May 29, 2019 07:14:14 PM
 //Codeset: 1252
 requires maya "2018";
 requires -nodeType "MASH_Waiter" -nodeType "MASH_Transform" -nodeType "MASH_Symmetry"
@@ -23959,4 +23959,4 @@ connectAttr "nucar:skybox:ramp1.msg" ":defaultTextureList1.tx" -na;
 connectAttr "RoadSideMirrorShape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "Light.iog" ":defaultLightSet.dsm" -na;
 connectAttr "sun:file1.oc" ":internal_standInShader.ic";
-// End of template.ma
+// End of katrine.ma
