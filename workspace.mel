@@ -1,7 +1,7 @@
 //Maya 2018 Project Definition
 
 workspace -fr "fluidCache" "cache/nCache/fluid";
-workspace -fr "images" "images";
+workspace -fr "images" "H:/3dgraph";
 workspace -fr "JT_ATF" "data";
 workspace -fr "offlineEdit" "scenes/edits";
 workspace -fr "STEP_ATF Export" "data";
